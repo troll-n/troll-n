@@ -1,6 +1,6 @@
 Hey there! I'm a Physics and Mechanical Engineering nerd at CMU. I like to:
 
-* Design rockets at Carnegie Mellon Rocket Command as a Mechanical Lead
+* Design rockets with Carnegie Mellon Rocket Command as a Mechanical Lead
 * Implement ML for 2D material detection under Professor Sufei Shi
 * Cook high-quality documentation
 
