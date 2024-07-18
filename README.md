@@ -4,5 +4,5 @@ Hey there! I'm a Physics and Mechanical Engineering nerd at CMU. I like to:
 * Implement ML for 2D material detection under Professor Sufei Shi
 * Cook high-quality documentation
 
-I *know* `Python`, `Java`, and `JS`, but i *like* coding in `C++`.
+I *know* `Python`, `Java`, and `JS`, but I *like* coding in `C++`.
 Feel free to reach out to me at [pkaczmar@andrew.cmu.edu](pkaczmar@andrew.cmu.edu)!
